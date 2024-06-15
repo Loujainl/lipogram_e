@@ -75,4 +75,4 @@ After 5 epochs of training, the model was able to generate texts that adhered to
 
 ## License
 
-Copyright (c) 2024 [Loujain Liekah](loujain.liekah5@gmail.com)
+Copyright (c) 2024 [Loujain Liekah]
